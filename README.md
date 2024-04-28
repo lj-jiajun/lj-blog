@@ -1,1 +1,1 @@
-# react-remix-blog
+# lj-blog
