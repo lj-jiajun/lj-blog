@@ -5,6 +5,14 @@
 /.next/
 /out/
 
+# opennextjs-cloudflare 构建产物
+/.open-next/
+/.wrangler/
+/.wrangler-out/
+
+# vercel CLI
+/.vercel/
+
 # production
 /build
 
